@@ -1,4 +1,5 @@
 # Avaamo
+Initialization
 
 Enable CORS on the browser by adding chrome extention of your choice.
 You can clone the code from the repository and open the Index file in the Chrome.
